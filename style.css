@@ -1,17 +1,4 @@
-.calculator{
-   border:2px solid black;
-   margin-right:400px;
-   margin-left:400px;
-   border-radius:20px
-
-}
-
-h1{
-text-align:center;
-}
-
-input{
-color:white;@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
 
 * {
     margin: 0;
@@ -211,7 +198,7 @@ div.circle {
     border-radius: 50%;
     background: #bcc3c7;
     margin-top: 2rem;
-
+    
 }
 
 div.box1 h5 {
@@ -357,23 +344,4 @@ div.footer h6 {
     color: #88949B;
     font-size: 1rem;
     padding-top: 6rem;
-}
-background:black;
-font-size:50px;
-border-radius:12px;
-width:100px;
-margin:15px 10px 10px 10px;
-
-}
-
-#myform{
-    margin-left:22px;
-    margin-top:50px;
-    margin-bottom:20px;
-}
-
-.displayBox{
-    width:464px;
-    background:white;
-    color:black;
 }
