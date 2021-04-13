@@ -37,6 +37,73 @@ div.nav-bar {
 }
 
 
+/* section 2 */
+
+@media screen and (max-width: 768px) {
+    div.hero-background {
+        padding: 3rem;
+    
+    }
+
+    div.background {
+        padding:10px 30px;
+        width: 300px;
+        height: 250px;
+    }
+
+    div.background h4 {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    div.background p {
+        padding-left:1rem;
+        font-size:0.8rem;
+    }
+
+    div.hero-background-pos {
+        display: none;
+    }
+
+    div.box3 {
+        width: 300px;
+        height: 230px;
+    }
+}
+
+
+/* section3 */
+@media screen and (max-width: 768px){
+    div.snapshot-team {
+        padding: 2rem;
+        background: #f0f0f0;
+        text-align:center;
+
+    }
+
+    div.snapshot-team h2{
+        font-size: 1.2rem;
+    }
+
+    div.snapshot-team p{
+        font-size: 0.8rem;
+    }
+    div.snapshot-box{
+        padding: 2rem 0rem;
+    }
+
+    div.snapshot-box-content {
+        display:flex;
+        flex-direction:column;
+    }
+
+    div.box1 {
+        width:300px;
+        height:230px;
+    }
+
+}
+
 div.logo {
     font-size: 1.5rem;
     color: #bcc3c7;
